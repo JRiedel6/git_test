@@ -1,0 +1,1 @@
+This is JRiedel's first Git project!
